@@ -167,6 +167,10 @@ body {
     font-weight: 400;
 }
 
+.rodape__imagem{
+    width: 300px;
+    }
+
 .rodape__texto{
     margin-top: 10px;
     font-size: 20px;
